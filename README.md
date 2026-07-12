@@ -12,7 +12,7 @@ Systematic comparison of machine learning models for detecting crop disease from
  
 ### Microplastic Transport Simulation
 Physics-based simulation of how microplastics move through water, and how their interaction changes in the presence of pharmaceuticals.
-`Python` · `NumPy` 
+`Python` · `NumPy` [Repo](https://github.com/josephreggy23-coder/pharmablast}
  
 ### Epileptic Seizure Prediction
 Markov-model approach to predicting the onset of epileptic seizures from time-series signals.
