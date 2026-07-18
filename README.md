@@ -1,23 +1,31 @@
 # Joseph Regito David
- 
-Using software to measurably improve human life.
- 
-joseph.reggy23@gmail.com
- 
----
- 
-### Plant Disease Detection — ML Model Benchmark
-Systematic comparison of machine learning models for detecting crop disease from leaf images, identifying which architectures perform best and why.
-`Python` · `PyTorch` 
- 
-### Microplastic Transport Simulation
-Physics-based simulation of how microplastics move through water, and how their interaction changes in the presence of pharmaceuticals.
-`Python` · `NumPy` [Repo](https://github.com/josephreggy23-coder/pharmablast)
- 
-### Epileptic Seizure Prediction
-Markov-model approach to predicting the onset of epileptic seizures from time-series signals.
-`Python`
- 
- 
-I move fast, ship, and build things that reach real people.
- 
+
+### Computational neuroscience · machine learning · scientific software
+
+I build rigorous, reproducible tools for problems at the intersection of
+biology, data, and human health. My work combines quantitative modeling,
+machine learning, and clear technical communication to turn complex scientific
+questions into useful software.
+
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Decision Geometry](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map) | Reproducible analysis of real International Brain Laboratory Neuropixels recordings, including population trajectories, neural decoding, and cross-temporal dynamics. | Python · NWB · scikit-learn |
+| [CADENCE](https://github.com/josephreggy23-coder/cadence) | A model-based, closed-loop controller for restoring healthy glial calcium dynamics through minimal, well-timed intervention. | Python · statistical modeling |
+| [PharmaBlast](https://github.com/josephreggy23-coder/pharmablast) | Physics-informed simulation of microplastic transport in water and its interaction with pharmaceuticals. | Python · numerical simulation |
+
+## What I focus on
+
+- Building transparent, testable computational models for biomedical questions
+- Analyzing high-dimensional biological and time-series data
+- Shipping research software that is reproducible, readable, and useful beyond a single notebook
+
+## Currently exploring
+
+Neural population dynamics, adaptive control for biological systems, and
+machine-learning methods that make scientific results easier to validate and use.
+
+## Contact
+
+[joseph.reggy23@gmail.com](mailto:joseph.reggy23@gmail.com)
