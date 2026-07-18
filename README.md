@@ -23,7 +23,12 @@ Real-data analysis of International Brain Laboratory Neuropixels recordings:
 population trajectories, neural decoding, cross-temporal dynamics, and
 region-level comparisons from a pinned public NWB dataset.
 
+<details>
+<summary>View the Decision Geometry analysis dashboard</summary>
+
 [![Decision Geometry analysis dashboard](https://raw.githubusercontent.com/josephreggy23-coder/IBL-Brain-Wide-Map/main/results/decision_geometry.png)](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map)
+
+</details>
 
 `Python` `NWB` `scikit-learn` `DANDI` `reproducible research`
 
