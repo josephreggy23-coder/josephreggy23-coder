@@ -2,58 +2,62 @@
 
 # Joseph Regito David
 
-### Computational neuroscience | machine learning | scientific software
+### Computational neuroscience · machine learning · research software
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-david-85063635a/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.reggy23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-josephreggy23--coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josephreggy23-coder)
+Building reproducible tools for biological data and human-health research.
 
-</div>
-
-I build rigorous, reproducible tools for problems at the intersection of
-biology, data, and human health. My work combines quantitative modeling,
-machine learning, and clear technical communication to turn complex scientific
-questions into useful software.
-
-## Featured project
-
-### [Decision Geometry](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map)
-
-Real-data analysis of International Brain Laboratory Neuropixels recordings:
-population trajectories, neural decoding, cross-temporal dynamics, and
-region-level comparisons from a pinned public NWB dataset.
-
-<details>
-<summary>View the Decision Geometry analysis dashboard</summary>
-
-[![Decision Geometry analysis dashboard](https://raw.githubusercontent.com/josephreggy23-coder/IBL-Brain-Wide-Map/main/results/decision_geometry.png)](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map)
-
-</details>
-
-`Python` `NWB` `scikit-learn` `DANDI` `reproducible research`
-
-## Selected work
-
-| Project | Focus | Tools |
-| --- | --- | --- |
-| [CADENCE](https://github.com/josephreggy23-coder/cadence) | Model-based, closed-loop control of glial calcium dynamics through minimal, well-timed intervention. | Python, statistical modeling |
-| [PharmaBlast](https://github.com/josephreggy23-coder/pharmablast) | Physics-informed simulation of microplastic transport in water and its interaction with pharmaceuticals. | Python, numerical simulation |
-
-## What I care about
-
-- Transparent, testable computational models for biomedical questions
-- High-dimensional biological and time-series data
-- Research software that is reproducible, readable, and useful beyond a single notebook
-
-## Exploring now
-
-Neural population dynamics, adaptive control for biological systems, and
-machine-learning methods that make scientific results easier to validate and use.
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/joseph-david-85063635a/">Connect on LinkedIn</a> &nbsp;|&nbsp; <a href="mailto:joseph.reggy23@gmail.com">Email me</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-david-85063635a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joseph.reggy23@gmail.com)
 
 </div>
+
+## About
+
+I work at the intersection of neuroscience, data science, and software
+engineering. My focus is turning complex experimental data into analysis
+pipelines that are understandable, testable, and useful to researchers.
+
+I care about:
+
+- quantitative models that make assumptions explicit;
+- reliable workflows for high-dimensional and time-series data;
+- validation that respects the experimental design; and
+- documentation that makes research software easier to trust and reuse.
+
+## Technical focus
+
+**Languages & analysis**<br>
+Python · SQL · NumPy · pandas · SciPy · scikit-learn
+
+**Scientific computing**<br>
+Neural time series · electrophysiology · behavioral data · statistical modeling
+· reproducible research
+
+**Engineering**<br>
+Data validation · nested cross-validation · testing · command-line tools ·
+technical documentation
+
+## Current interests
+
+- neural population dynamics and electrophysiology;
+- interpretable machine learning for biomedical datasets;
+- adaptive and closed-loop modeling of biological systems; and
+- better interfaces between scientific analysis and usable software.
+
+## Working principles
+
+```text
+Question → measurable endpoint → leakage-safe analysis → reproducible result
+```
+
+I prefer small, well-tested analytical steps over opaque complexity. When a
+model is not supported by the data, I document that limitation clearly and use
+it to guide the next experiment.
+
+## Connect
+
+If you are working on computational neuroscience, biomedical data, or research
+software, I would be glad to connect.
+
+[LinkedIn](https://www.linkedin.com/in/joseph-david-85063635a/) ·
+[Email](mailto:joseph.reggy23@gmail.com)
