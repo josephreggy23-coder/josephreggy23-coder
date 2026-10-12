@@ -6,3 +6,5 @@ desktop.ini
 ._*
 *.swp
 *~
+*.bak
+*.tmp
