@@ -60,4 +60,5 @@ If you are working on computational neuroscience, biomedical data, or research
 software, I would be glad to connect.
 
 [LinkedIn](https://www.linkedin.com/in/joseph-david-85063635a/) ·
+[Repositories](https://github.com/josephreggy23-coder?tab=repositories) ·
 [Email](mailto:joseph.reggy23@gmail.com)
