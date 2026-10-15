@@ -44,6 +44,17 @@ technical documentation
 - adaptive and closed-loop modeling of biological systems; and
 - better interfaces between scientific analysis and usable software.
 
+## Selected projects
+
+- [Latent-period epileptogenesis via Markov modeling](https://github.com/josephreggy23-coder/Latent-Period-Epileptogenesis-Assessment-Via-Markov-Modeling) —
+  hidden-Markov modeling of larval-zebrafish LFP after traumatic brain injury.
+- [Behavioral PTE](https://github.com/josephreggy23-coder/Behavioral-PTE) — visual-habituation kinetics as a
+  candidate predictor of later seizure-like activity.
+- [Lean Proof Diagnostics Explorer](https://github.com/josephreggy23-coder/Lean-Proof-Diagnostics-Explorer) —
+  transparent failure analysis of Lean proof-attempt logs.
+- [gw-inference-engine](https://github.com/josephreggy23-coder/gw-inference-engine) — a dependency-light
+  gravitational-wave inference teaching pipeline.
+
 ## Working principles
 
 ```text
