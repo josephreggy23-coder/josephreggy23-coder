@@ -50,6 +50,8 @@ technical documentation
   hidden-Markov modeling of larval-zebrafish LFP after traumatic brain injury.
 - [Behavioral PTE](https://github.com/josephreggy23-coder/Behavioral-PTE) — visual-habituation kinetics as a
   candidate predictor of later seizure-like activity.
+- [Decision Geometry](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map) —
+  population decoding and cross-temporal dynamics in real IBL Neuropixels recordings.
 - [Lean Proof Diagnostics Explorer](https://github.com/josephreggy23-coder/Lean-Proof-Diagnostics-Explorer) —
   transparent failure analysis of Lean proof-attempt logs.
 - [gw-inference-engine](https://github.com/josephreggy23-coder/gw-inference-engine) — a dependency-light
