@@ -52,6 +52,8 @@ technical documentation
   candidate predictor of later seizure-like activity.
 - [Decision Geometry](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map) —
   population decoding and cross-temporal dynamics in real IBL Neuropixels recordings.
+- [CoRe-TBI](https://github.com/josephreggy23-coder/CoRe-TBI) — within-animal
+  counterfactual recovery modeling of movement after traumatic brain injury.
 - [Lean Proof Diagnostics Explorer](https://github.com/josephreggy23-coder/Lean-Proof-Diagnostics-Explorer) —
   transparent failure analysis of Lean proof-attempt logs.
 - [gw-inference-engine](https://github.com/josephreggy23-coder/gw-inference-engine) — a dependency-light
