@@ -10,3 +10,4 @@ desktop.ini
 *.tmp
 .env
 *.log
+.env.*
