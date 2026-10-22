@@ -48,16 +48,16 @@ technical documentation
 
 - [Latent-period epileptogenesis via Markov modeling](https://github.com/josephreggy23-coder/Latent-Period-Epileptogenesis-Assessment-Via-Markov-Modeling) —
   hidden-Markov modeling of larval-zebrafish LFP after traumatic brain injury.
-- [Behavioral PTE](https://github.com/josephreggy23-coder/Behavioral-PTE) — visual-habituation kinetics as a
-  candidate predictor of later seizure-like activity.
+- [Behavioral PTE](https://github.com/josephreggy23-coder/Behavioral-PTE) —
+  visual-habituation kinetics as a candidate predictor of later seizure-like activity.
 - [Decision Geometry](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map) —
   population decoding and cross-temporal dynamics in real IBL Neuropixels recordings.
 - [CoRe-TBI](https://github.com/josephreggy23-coder/CoRe-TBI) — within-animal
   counterfactual recovery modeling of movement after traumatic brain injury.
 - [Lean Proof Diagnostics Explorer](https://github.com/josephreggy23-coder/Lean-Proof-Diagnostics-Explorer) —
   transparent failure analysis of Lean proof-attempt logs.
-- [gw-inference-engine](https://github.com/josephreggy23-coder/gw-inference-engine) — a dependency-light
-  gravitational-wave inference teaching pipeline.
+- [gw-inference-engine](https://github.com/josephreggy23-coder/gw-inference-engine) —
+  a dependency-light gravitational-wave inference teaching pipeline.
 
 ## Working principles
 
