@@ -58,6 +58,12 @@ technical documentation
   transparent failure analysis of Lean proof-attempt logs.
 - [gw-inference-engine](https://github.com/josephreggy23-coder/gw-inference-engine) —
   a dependency-light gravitational-wave inference teaching pipeline.
+- [astro-transient-pipeline](https://github.com/josephreggy23-coder/astro-transient-pipeline) —
+  simulated multi-messenger transient triage, from alert stream to
+  follow-up queue.
+- [PharmaBlast](https://github.com/josephreggy23-coder/pharmablast) —
+  physics-informed modeling of fluorescence-based detection of
+  pharmaceutical-laden microplastics in water.
 
 ## Working principles
 
