@@ -56,6 +56,8 @@ technical documentation
   counterfactual recovery modeling of movement after traumatic brain injury.
 - [Lean Proof Diagnostics Explorer](https://github.com/josephreggy23-coder/Lean-Proof-Diagnostics-Explorer) —
   transparent failure analysis of Lean proof-attempt logs.
+- [Autoformalization and iterative proof repair](https://github.com/josephreggy23-coder/Autoformalization-and-Iterative-Proof-Repair-with-Lean-and-Language-Models) —
+  a Lean generation/verification loop with language-model proof repair.
 - [Gravitational-wave inference engine](https://github.com/josephreggy23-coder/gw-inference-engine) —
   a dependency-light gravitational-wave inference teaching pipeline.
 - [Astro transient pipeline](https://github.com/josephreggy23-coder/astro-transient-pipeline) —
