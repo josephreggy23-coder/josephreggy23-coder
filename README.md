@@ -64,6 +64,8 @@ technical documentation
 - [Astro transient pipeline](https://github.com/josephreggy23-coder/astro-transient-pipeline) —
   simulated multi-messenger transient triage, from alert stream to
   follow-up queue.
+- [Planetary autonomy sim](https://github.com/josephreggy23-coder/planetary-autonomy-sim) —
+  seeded terrain generation and cost-based rover route planning.
 - [PharmaBlast](https://github.com/josephreggy23-coder/pharmablast) —
   physics-informed modeling of fluorescence-based detection of
   pharmaceutical-laden microplastics in water.
