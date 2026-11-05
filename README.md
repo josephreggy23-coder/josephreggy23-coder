@@ -51,6 +51,8 @@ technical documentation
   hidden-Markov modeling of larval-zebrafish LFP after traumatic brain injury.
 - [Behavioral PTE](https://github.com/josephreggy23-coder/Behavioral-PTE) —
   visual-habituation kinetics as a candidate predictor of later seizure-like activity.
+- [PTE prediction via Cox modeling](https://github.com/josephreggy23-coder/PTE-prediction-Via-Cox-modeling) —
+  survival analysis of PTZ-evoked seizure latency after TBI using LFP markers.
 - [Decision geometry (IBL Brain-Wide Map)](https://github.com/josephreggy23-coder/IBL-Brain-Wide-Map) —
   population decoding and cross-temporal dynamics in real IBL Neuropixels recordings.
 - [CoRe-TBI](https://github.com/josephreggy23-coder/CoRe-TBI) — within-animal
