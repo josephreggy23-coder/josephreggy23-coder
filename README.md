@@ -73,6 +73,8 @@ technical documentation
 - [PharmaBlast](https://github.com/josephreggy23-coder/pharmablast) —
   physics-informed modeling of fluorescence-based detection of
   pharmaceutical-laden microplastics in water.
+- [JHU CT viewer demo](https://github.com/josephreggy23-coder/JHUdemo) —
+  browser-based CT scan and per-voxel segmentation viewer (Niivue/WebGL2).
 
 ## Working principles
 
