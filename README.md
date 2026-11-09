@@ -68,6 +68,9 @@ technical documentation
   follow-up queue.
 - [Planetary autonomy sim](https://github.com/josephreggy23-coder/planetary-autonomy-sim) —
   seeded terrain generation and cost-based rover route planning.
+- [TREADSENTINEL (6PPD alternatives)](https://github.com/josephreggy23-coder/Computational-Assessment-of-Safer-6PPD-Alternatives) —
+  cross-endpoint toxicity assessment and evidence-gated screening of 6PPD
+  tire-antiozonant alternatives.
 - [Multilayer perceptron from scratch](https://github.com/josephreggy23-coder/Multilayer-Perceptron-MLP-) —
   a NumPy-only MLP with backpropagation, calibration metrics, and tests.
 - [PharmaBlast](https://github.com/josephreggy23-coder/pharmablast) —
