@@ -89,7 +89,7 @@ I prefer small, well-tested analytical steps over opaque complexity. When a
 model is not supported by the data, I document that limitation clearly and use
 it to guide the next experiment.
 
-## Connect
+## Contact
 
 If you are working on computational neuroscience, biomedical data, or research
 software, I would be glad to connect.
