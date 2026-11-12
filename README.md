@@ -81,6 +81,9 @@ technical documentation
 - [CADENCE](https://github.com/josephreggy23-coder/cadence) —
   sensor-aware glial calcium modeling, latent-state inference, and
   in-silico control.
+- [Area 7a heading](https://github.com/josephreggy23-coder/area7a-heading) —
+  visuo-vestibular heading discrimination in macaque posterior parietal
+  area 7a.
 
 ## Working principles
 
