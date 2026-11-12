@@ -78,6 +78,9 @@ technical documentation
   pharmaceutical-laden microplastics in water.
 - [JHU CT viewer demo](https://github.com/josephreggy23-coder/JHUdemo) —
   browser-based CT scan and per-voxel segmentation viewer (Niivue/WebGL2).
+- [CADENCE](https://github.com/josephreggy23-coder/cadence) —
+  sensor-aware glial calcium modeling, latent-state inference, and
+  in-silico control.
 
 ## Working principles
 
